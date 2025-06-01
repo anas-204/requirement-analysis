@@ -12,5 +12,6 @@ Improves stakeholder alignment by setting clear objectives.
 
 Enhances user satisfaction by addressing real user needs.
 
-What is Requirement Analysis ? 
+What is Requirement Analysis?  :
+
 Requirement Analysis is the process of identifying, documenting, and validating the needs and constraints of stakeholders to define what a software system must do.
