@@ -57,7 +57,10 @@ Writing user stories
 Developing use cases
 
 Types of Requirements. :
+
 Use Case Diagrams :
+
+Acceptance Criteria :
 
 
  
